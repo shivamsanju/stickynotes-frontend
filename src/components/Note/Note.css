@@ -38,6 +38,7 @@
 
 .note__text {
   flex: 1;
+  outline: 0px solid transparent;
 }
 
 .note__link {
